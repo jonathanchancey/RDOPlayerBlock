@@ -10,4 +10,4 @@ Inspired by [this reddit post](https://www.reddit.com/r/RedDeadOnline/comments/e
 
 ### Update 7/1/2020
 
-In testing, it appears this method may no longer be able to create lobbies that friends can join. However creating solo lobbies was still possible for me.
+In testing, it appears this method may no longer be able to create joinable lobbies. However, creating solo lobbies was still possible.
